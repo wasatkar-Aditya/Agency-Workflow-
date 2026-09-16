@@ -1,0 +1,17 @@
+# Dependencies and generated output
+backend/node_modules/
+frontend/node_modules/
+backend/dist/
+frontend/dist/
+
+# Environment files and local tooling
+backend/.env
+backend/.gitignore/
+.trae/
+*.tsbuildinfo
+
+# Logs and operating-system files
+*.log
+logs/
+.DS_Store
+Thumbs.db
